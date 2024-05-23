@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.firstlink {
+    margin-left: 8%;
+}
+
+.allList {
+    margin-left: 200px;
+}
+
+.nav-item a:hover {
+    color: #FEB941 !important;
+}
+
+.firstbuttun {
+    width: 140px;
+    height: 40px;
+    border-radius: 40px;
+    margin-left: 35px;
+    background-color: #FEB941;
+    border: none;
+}
+
+.text {
+    margin-top: 10%;
+    margin-left: 50px;
+}
+
+.photo {
+    background: url(./images/hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.scondebuttun {
+    width: 175px;
+    height: 45px;
+    border: none;
+    border-radius: 40px;
+    background-color: #FEB941;
+}
+
+.scondephoto {
+    border: 4px solid burlywood;
+}
+
+.threebuttun {
+    width: 200px;
+    height: 45px;
+    border-radius: 40px;
+    border: none;
+    background-color: #FEB941;
+}
+
+.iconsofmenu {
+    width: 40px !important;
+    height: 35px;
+    border-radius: 50%;
+    background-color: yellow;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f1 {
+    background-image: url(./images/f2.png);
+    width: 300px;
+    height: 282px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.fourbuutun {
+    width: 170px !important;
+    height: 45px;
+    border-radius: 40px;
+    background-color: yellow;
+    color: #000;
+    border: none;
+    margin-left: 40%;
+}
+
+.backofabout {
+    height: 110vh;
+}
+
+.info {
+    margin-top: 15% !important;
+}
+
+.photoofabout {
+    width: 500px;
+    height: 600px;
+    margin-top: 5%;
+}
+
+.fivebuttun {
+    width: 170px !important;
+    height: 45px;
+    border-radius: 40px;
+    background-color: yellow;
+    color: #000;
+    border: none;
+}
+
+.stayleoficons {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.lastlink {
+    margin-left: 25%;
+}
+
+@media(max-width:767px) {
+.firstlink {
+        margin-left: 8%;
+    }
+
+.allList {
+    margin-left: 10px;
+}
+
+.icons {
+    display: flex;
+}
+
+.backofabout {
+    height: 120vh;
+}
+
+.info {
+    margin-top: -197% !important;
+}
+
+.photoofabout {
+    width: 325px;
+    height: 400px;
+    margin-top: 100%;
+}
+
+.centerofacrds {
+    margin-left: -33px !important;
+}
+
+.firstcard {
+    margin-bottom: 160px;
+}
+
+.footer {
+    margin-left: 20%;
+}
+
+.footerof {
+    margin-left: 22%;
+}
+
+.footerofhead {
+    margin-left: 26%;
+}
+
+.footerofparagraph {
+    margin-left: 40% !important;
+}
+
+.footerofparagraph_two {
+    margin-left: 22% !important;
+}
+}
